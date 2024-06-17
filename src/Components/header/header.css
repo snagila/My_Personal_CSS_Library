@@ -155,5 +155,18 @@ nav {
   }
   #hamburger-nav {
     display: flex;
+    background: black;
+  }
+  .hamburger-icon span {
+    background-color: white;
+  }
+  .hamburger-icon:hover {
+    color: red;
+  }
+  .menu-links .custom-link {
+    color: whitesmoke;
+  }
+  .menu-links .custom-link:hover {
+    color: red;
   }
 }
